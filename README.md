@@ -22,7 +22,7 @@
 
 ## 如有帮助你薅到羊毛，请不吝赏作者一杯茶水费
 
-![thanks](https://github.com/RikudouPatrickstar/jd-base/wiki/Picture/thanks.png)
+![thanks](https://github.com/why-or-why-not/jd-base/wiki/Picture/thanks.png)
 
 ## 更新日志
 
